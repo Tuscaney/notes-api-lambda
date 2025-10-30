@@ -16,3 +16,5 @@ This project demonstrates how to deploy a simple Node.js Lambda function and con
 - **Invoke URL:** https://3ia9nkara2.execute-api.us-east-2.amazonaws.com/notes
 
 
+## IAM
+- Execution role: `notes-api-role-hx4nbjn5`
